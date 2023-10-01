@@ -1,0 +1,20 @@
+package test;
+
+public enum LinhaTipo {
+
+	 NOME_FUNCIONARIO,
+	    NUMERO_IDENTIFICACAO,
+	    CARGO,
+	    ADMISSAO,
+	    DEPARTAMENTO,
+	    SUPERVISOR,
+	    SALARIO,
+	    ENDERECO,
+	    TELEFONE,
+	    EMAIL,
+	    DATA_NASCIMENTO,
+	    ESTADO_CIVIL,
+	    DEPENDENTES,
+	    FORMACAO_ACADEMICA
+	
+}
